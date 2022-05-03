@@ -1,2 +1,2 @@
-# repo-git-dio
-Curso de Github oferecido pela DIO
+# Repositório de Desafio de Projeto
+Curso de Github oferecido pela DIO.
